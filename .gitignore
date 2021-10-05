@@ -1,2 +1,3 @@
-*.agdai
-MAlonzo/**
+e2e-eye-api/node_modules
+e2e-eye-api/heroku
+front-eye-recognition/node_modules
